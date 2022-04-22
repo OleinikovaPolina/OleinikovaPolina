@@ -2,13 +2,15 @@
 
 ### ✨ About me
 
-<img align="left" width="130" height="130" alt="" src="https://github.com/OleinikovaPolina/OleinikovaPolina/blob/main/5264wZSVkNE_2.png?raw=true"/>
+<img align="left" width="130" height="130" alt="" src="5264wZSVkNE_2.png"/>
 
 <br>
 
 - 🌱 I’m currently learning Vue
 - 👨‍💻 All of my projects are available at <a href="#" target="_blank">\*will be soon\*</a>
 - 📫 How to reach me <a href="mailto:oleinikowa.poly@gmail.com">oleinikowa.poly@gmail.com</a>
+
+<br>
 
 [comment]: <> (- 📄 Know about my experiences <a href="#" target="_blank">\*won't be soon\*</a>)
 
