@@ -1,31 +1,33 @@
-![wave](https://capsule-render.vercel.app/api?fontColor=fff&type=wave&&color=0:f1e05a,50:41b883,100:2b7489&text=Hi,%20I'm%20Polina&fontAlignY=30&height=250&descAlignY=45&descAlign=58.3&desc=A%20passionate%20frontend%20developer)
+![wave](https://capsule-render.vercel.app/api?fontColor=fff&type=waving&&color=0:f1e05a,35:41b883,70:3178c6,100:563d7c&text=Hi,%20I'm%20Polina&fontAlignY=20&height=150&descAlignY=35&fontSize=40&descSize=15&descAlign=51.5&desc=A%20passionate%20frontend%20developer)
+
+<img align="right" alt="..." width="350" src="./undraw_proud_coder_re_exuy.svg">
 
 ### ✨ About me
 
-<img align="left" width="130" height="130" alt="" src="5264wZSVkNE_2.png"/>
-
-<br>
+> I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from St. Petersburg
 
 - 🌱 I’m currently learning Vue
-- 👨‍💻 All of my projects are available at <a href="#" target="_blank">\*will be soon\*</a>
+- 👨‍💻 All of my projects are available on
+  the <a href="https://oleinikovapolina.github.io/portfolio/dist/#/">portfolio website</a>
 - 📫 How to reach me <a href="mailto:oleinikowa.poly@gmail.com">oleinikowa.poly@gmail.com</a>
 
-<br>
+[comment]: <> (- 📄 Know about my experiences <a href="#" target="_blank">resume</a>)
 
-[comment]: <> (- 📄 Know about my experiences <a href="#" target="_blank">\*won't be soon\*</a>)
+<br>
 
 ### 🛠️ Favorite Tech
 
 > Tools, languages and other things that I like to work with
 
-![Vue.js](https://img.shields.io/badge/vuejs-41b883.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-41b883.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-41b883.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![Vuetify](https://img.shields.io/badge/Vuetify-2b7489?style=for-the-badge&logo=vuetify&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-2b7489.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-f1e05a?style=for-the-badge&logo=sass&logoColor=black)
-![CSS3](https://img.shields.io/badge/css3-f1e05a.svg?style=for-the-badge&logo=css3&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-e34c26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/nuxt.js-00C58E?logo=nuxtdotjs&logoColor=white)
+![](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 
 ### 📊 Stats
 
@@ -33,7 +35,7 @@
 
 <p align="center">
     <img alt="" height="137px" src="https://github-readme-stats.vercel.app/api?username=oleinikovapolina&show_icons=true&theme=vue" />    
-    <img alt="" height="137px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oleinikovapolina&theme=vue" /> 
+    <img alt="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleinikovapolina&layout=compact&theme=vue" /> 
 </p>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=wave&color=0:f1e05a,50:41b883,100:2b7489&height=150)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:f1e05a,35:41b883,70:3178c6,100:563d7c&height=100)
